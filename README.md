@@ -1,6 +1,8 @@
 # Patientendings
 
-Simple overview of use/purpose.
+WICHTIG!
+Ist ein public repo...
+Also sobald was handfestes oder testdaten drin sind aufpassen...
 
 ## Description
 
