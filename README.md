@@ -1,25 +1,32 @@
-# Project Title
+# Patientendings
 
 Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+ToDo
 
 ## Getting Started
 
 ### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Was du so brauchst:
+* IntelliJ
+* JavaJDK23 (www.oracle.com/java/technologies/downloads/#jdk23-windows)
+* Maven https://maven.apache.org/install.html
+* Nodejs/npm 
+* https://nodejs.org/en/download/package-manager/current
+* https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+* Angular
+* https://angular.dev/tools/cli/setup-local#install-the-angular-cli
+* https://material.angular.io/guide/getting-started
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* git clone github.com/Xerakes/patientdings.git
+* 
 
 ### Executing program
-
+ToDo
 * How to run the program
 * Step-by-step bullets
 ```
@@ -37,13 +44,10 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. André Günther  
+ex. Felix Sanner
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
