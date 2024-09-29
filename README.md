@@ -38,7 +38,15 @@ Was du so brauchst:
 ### Installing
 
 * git clone github.com/Xerakes/patientdings.git
-* 
+* ...
+* cd frontend
+* npm install
+* ng serve //hier startet das frontend
+* ...
+* ...
+* cd backend
+* mvn clean install 
+* ausführen von backend/src/main/java/de/andre/Application.java //hier startet backend(Springboot und H2DB)
 
 ### Executing program
 ToDo
