@@ -4,13 +4,25 @@ Simple overview of use/purpose.
 
 ## Description
 
-ToDo
+Je nachdem, wie man das jetzt machen will...
+da ich electron js nicht gut kenne und nicht weiß wie man dort Charts einbinden kann,
+denke aber das sollte auch mit charts.js gehen.. denke ich kann man auch einfach angular
+als webapp verwenden. Dann über ein node-startskript backend+DB und Frontend gleichzeitig
+zu starten. 
+Also entweder chatgpt und electron um das als exe zu machen oder der andere weg
+mit npm script 🤷‍♂️
 
-## Getting Started
+Mit beiden Varianten kann man am Ende packagen und ausliefern
+
+## Nützliche Links
+* https://www.chartjs.org/
+* https://material.angular.io/
+* https://www.electronjs.org/
+* https://javatechonline.com/spring-boot-mvc-crud-example/
 
 ### Dependencies
 Was du so brauchst:
-* IntelliJ
+* IntelliJ oder VSCode oder Eclipse
 * JavaJDK23 (www.oracle.com/java/technologies/downloads/#jdk23-windows)
 * Maven https://maven.apache.org/install.html
 * Nodejs/npm 
@@ -19,6 +31,9 @@ Was du so brauchst:
 * Angular
 * https://angular.dev/tools/cli/setup-local#install-the-angular-cli
 * https://material.angular.io/guide/getting-started
+* git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+* H2 http://www.h2database.com/html/download.html
+* Postman(optional)
 
 ### Installing
 
@@ -31,13 +46,6 @@ ToDo
 * Step-by-step bullets
 ```
 code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
